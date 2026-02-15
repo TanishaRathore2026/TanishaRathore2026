@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tanisha</h1>
-## 🖤 Code is poetry written in logic
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Student;Future+Software+Engineer;Building+Cool+Projects🚀;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
@@ -45,5 +44,7 @@
 <p align="center">
   <img src="assets/space-shooter.gif" />
 </p>
+
+<h3 align="center">✨ Thanks for Visiting ✨</h3>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
