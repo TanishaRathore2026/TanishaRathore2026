@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Tanisha</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Student;Future+Software+Engineer;Building+Cool+Projects🚀;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
+
+
 # 💫 About Me:
 <br>* 🔭 **I’m currently working on:** Developing AI-powered SaaS applications and refining my **Gemini Clone**.<br>* 🌱 **I’m currently learning:** **Python DSA** and GenAI Powered Data Analytics.<br>* 👯 **I’m looking to collaborate on:** Innovative projects involving **Machine Learning and NLP**.<br>* 💬 **Ask me about:** Python, **AI Hiring Assistant**, or my experience with student outreach.<br>* ⚡ **Fun fact:** I was the official **Campus Ambassador for IIT Bombay E-Cell**!
 
