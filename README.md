@@ -26,16 +26,17 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=TanishaRathore2026&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishaRathore2026&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# 
- My GitHub Activity Game
-<p align="center">
-  <img src="assets/space-shooter.gif" />
-</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TanishaRathore2026&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TanishaRathore2026&icon=4&color=0)](https://visitcount.itsvg.in)
+
+# 
+ My GitHub Activity Game
+<p align="center">
+  <img src="assets/space-shooter.gif" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
