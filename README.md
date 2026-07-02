@@ -1,68 +1,55 @@
-<h1 align="center">Hey 👋, I'm Tanisha Rathore</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Tanisha</h1>
+
+<h3 align="center">🚀 BTech CSE (AI & ML) Student | Future Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Express.js;AI%2FML+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Student;Future+Software+Engineer;Building+Cool+Projects🚀;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
+
+## 🖤 Code is poetry written in logic
+
+
+# 💫 About Me:
+<br>* 🔭 **I’m currently working on:** Developing AI-powered SaaS applications and refining my **Gemini Clone**.<br>* 🌱 **I’m currently learning:** **Python DSA** and GenAI Powered Data Analytics.<br>* 👯 **I’m looking to collaborate on:** Innovative projects involving **Machine Learning and NLP**.<br>* 💬 **Ask me about:** Python, **AI Hiring Assistant**, or my experience with student outreach.<br>* ⚡ **Fun fact:** I was the official **Campus Ambassador for IIT Bombay E-Cell**!
+
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-rathore-a71ab6325/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanisharathore2024@gmail.com) 
 
 ---
 
-- 🔭 I'm currently pursuing **B.Tech in Computer Science (AI & ML)** at Dr. A.P.J. Abdul Kalam Technical University, Lucknow
-- 🌱 I'm currently building projects with **React.js, Next.js, Express.js & Firebase**
-- 🤝 I'm looking to collaborate on **AI/ML and Full Stack web projects**
-- 📫 How to reach me: **tanisharathore2024@gmail.com**
-- ⚡ Fun fact: I love turning ideas into real working products!
+## 🏆 Certifications & Achievements
+- 🎓 **McKinsey Forward Program** – Completed (Dec 2025)  
+- ☁️ **Oracle Cloud Infrastructure** – Learning Experience  
+- 📊 **TATA GenAI Powered Data Analytics** – Job Simulation  
+- 🚩 **Campus Ambassador** – E-Cell IIT Bombay (2025–26)
 
-<br>
+---
 
-### 🌐 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/Tanisharathore-" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:tanisharathore2024@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+## 🚀 Featured Projects
+- 🤖 **Gemini Clone** – AI Conversational Assistant
 
-<br>
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,redux,tailwind,nextjs,express,mysql,firebase,git,github,gitlab,vscode" />
-</p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TanishaRathore2026&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TanishaRathore2026&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishaRathore2026&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<br>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=TanishaRathore2026&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=TanishaRathore2026&icon=4&color=0)](https://visitcount.itsvg.in)
+
+# 
+ YOO!!
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanishaRathore2026&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Tanisha's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanishaRathore2026&theme=radical&hide_border=true" alt="Tanisha's Streak" width="48%" />
+  <img src="assets/space-shooter.gif" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishaRathore2026&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="55%" />
-</p>
+<h3 align="center">✨ Thanks for Visiting ✨</h3>
 
-<br>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TanishaRathore2026&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
-<br>
-
-### 📈 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TanishaRathore2026/TanishaRathore2026/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TanishaRathore2026&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
