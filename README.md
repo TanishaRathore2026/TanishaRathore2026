@@ -10,6 +10,8 @@
 
 
 # 💫 About Me:
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/TanishaRathore2026/TanishaRathore2026/main/assets/coding.gif" />
 <br>* 🔭 **I’m currently working on:** Developing AI-powered SaaS applications and refining my **Gemini Clone**.<br>* 🌱 **I’m currently learning:** **Python DSA** and GenAI Powered Data Analytics.<br>* 👯 **I’m looking to collaborate on:** Innovative projects involving **Machine Learning and NLP**.<br>* 💬 **Ask me about:** Python, **AI Hiring Assistant**, or my experience with student outreach.<br>* ⚡ **Fun fact:** I was the official **Campus Ambassador for IIT Bombay E-Cell**!
 
 
