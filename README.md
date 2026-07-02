@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tanisha</h1>
-
 <h3 align="center">🚀 BTech CSE (AI & ML) Student | Future Software Engineer</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=80&lines=Hey!+I+am+...;Fullstack+developer;AI+%26+ML+Student;Building+Cool+Projects🚀" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Student;Future+Software+Engineer;Building+Cool+Projects🚀;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
-
 ## 🖤 Code is poetry written in logic
 
 
