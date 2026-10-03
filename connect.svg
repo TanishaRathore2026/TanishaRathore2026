@@ -1,0 +1,30 @@
+<svg width="1200" height="170" viewBox="0 0 1200 170" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="1200" height="170" rx="25" fill="#0b0b12" stroke="#252538"/>
+
+<text x="600" y="62"
+text-anchor="middle"
+fill="white"
+font-family="Arial"
+font-size="29"
+font-weight="700">
+LET'S CONNECT
+</text>
+
+<text x="600" y="95"
+text-anchor="middle"
+fill="#94a3b8"
+font-family="monospace"
+font-size="15">
+Open to learning, collaboration &amp; software opportunities
+</text>
+
+<text x="600" y="130"
+text-anchor="middle"
+fill="#22d3ee"
+font-family="monospace"
+font-size="14">
+GitHub • LinkedIn • Portfolio • Email
+</text>
+
+</svg>
