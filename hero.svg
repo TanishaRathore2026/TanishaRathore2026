@@ -1,0 +1,93 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#09090f"/>
+      <stop offset="55%" stop-color="#17112b"/>
+      <stop offset="100%" stop-color="#0b1020"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="50%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="330" rx="28" fill="url(#bg)"/>
+
+  <circle cx="1050" cy="65" r="120" fill="#a78bfa" opacity=".08"/>
+  <circle cx="1080" cy="250" r="150" fill="#22d3ee" opacity=".06"/>
+  <circle cx="150" cy="30" r="100" fill="#f472b6" opacity=".05"/>
+
+  <path d="M0 270 C250 210 370 330 610 260 S950 200 1200 245"
+        fill="none" stroke="url(#accent)" stroke-width="2" opacity=".35"/>
+
+  <text x="70" y="78"
+        fill="#94a3b8"
+        font-family="monospace"
+        font-size="18">
+    &lt;developer_profile /&gt;
+  </text>
+
+  <text x="70" y="145"
+        fill="white"
+        font-family="Arial, sans-serif"
+        font-size="58"
+        font-weight="700">
+    TANISHA RATHORE
+  </text>
+
+  <rect x="72" y="170" width="370" height="4" rx="2" fill="url(#accent)"/>
+
+  <text x="72" y="215"
+        fill="#e2e8f0"
+        font-family="Arial, sans-serif"
+        font-size="23">
+    Full-Stack &amp; Backend Developer
+  </text>
+
+  <text x="72" y="252"
+        fill="#94a3b8"
+        font-family="monospace"
+        font-size="17">
+    Python • Django • React • AI / LLM
+  </text>
+
+  <text x="72" y="292"
+        fill="#64748b"
+        font-family="monospace"
+        font-size="15">
+    B.Tech CSE (AI &amp; ML) • 2027 • Lucknow, India
+  </text>
+
+  <g transform="translate(930 105)" filter="url(#glow)">
+    <rect x="0" y="0" width="150" height="105" rx="16"
+          fill="#0f172a" stroke="#334155"/>
+
+    <circle cx="30" cy="30" r="7" fill="#22d3ee"/>
+    <circle cx="52" cy="30" r="7" fill="#a78bfa"/>
+    <circle cx="74" cy="30" r="7" fill="#f472b6"/>
+
+    <text x="20" y="62"
+          fill="#cbd5e1"
+          font-family="monospace"
+          font-size="13">
+      build()
+    </text>
+
+    <text x="20" y="84"
+          fill="#22d3ee"
+          font-family="monospace"
+          font-size="13">
+      deploy()
+    </text>
+  </g>
+</svg>
