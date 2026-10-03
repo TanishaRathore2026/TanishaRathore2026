@@ -1,61 +1,73 @@
-<h1 align="center">Hi 👋, I'm Tanisha</h1>
+<div align="center">
 
-<h3 align="center">🚀 BTech CSE (AI & ML) Student | Future Software Engineer</h3>
+<img src="./hero.svg?v=1" alt="Hi, I'm Tanisha Rathore" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Student;Future+Software+Engineer;Building+Cool+Projects🚀;Always+Learning+New+Things&center=true&width=500&height=50">
-</p>
+<br/><br/>
 
-## 🖤 Code is poetry written in logic
+<img src="./about-life.svg?v=1" alt="What I build and what I'm learning" width="100%"/>
 
+<br/><br/>
 
-# 💫 About Me:
+<img src="./stack.svg?v=1" alt="Tech stack" width="100%"/>
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/TanishaRathore2026/TanishaRathore2026/main/assets/coding.gif" />
+<br/><br/>
 
-<br>* 🔭 **I’m currently working on:** Developing AI-powered SaaS applications and refining my **Gemini Clone**.<br>* 🌱 **I’m currently learning:** **Python DSA** and GenAI Powered Data Analytics.<br>* 👯 **I’m looking to collaborate on:** Innovative projects involving **Machine Learning and NLP**.<br>* 💬 **Ask me about:** Python, **AI Hiring Assistant**, or my experience with student outreach.<br>* ⚡ **Fun fact:** I was the official **Campus Ambassador for IIT Bombay E-Cell**!
+<img src="./id-dashboard.svg?v=1" alt="Developer ID and dashboard" width="100%"/>
 
+<br/><br/>
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-rathore-a71ab6325/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanisharathore2024@gmail.com) 
-
----
-
-## 🏆 Certifications & Achievements
-- 🎓 **McKinsey Forward Program** – Completed (Dec 2025)  
-- ☁️ **Oracle Cloud Infrastructure** – Learning Experience  
-- 📊 **TATA GenAI Powered Data Analytics** – Job Simulation  
-- 🚩 **Campus Ambassador** – E-Cell IIT Bombay (2025–26)
-
----
+</div>
 
 ## 🚀 Featured Projects
-- 🤖 **Gemini Clone** – AI Conversational Assistant
 
+| Project | What it is | Stack |
+|:---|:---|:---|
+| **AI-Powered SaaS Web Application** | Full-stack AI-powered web application with authentication, APIs and AI features | `React` `Express` `PostgreSQL` `Gemini API` |
+| **AI Hiring Assistant** | AI-powered recruitment assistant for conversational candidate evaluation | `Python` `Streamlit` `Gemini API` |
+| **AI Negotiation Environment** | Reinforcement-learning environment for negotiation scenarios | `Python` `Reinforcement Learning` |
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<br/>
 
+<div align="center">
 
+## 🌃 My Contribution City
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TanishaRathore2026&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TanishaRathore2026&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishaRathore2026&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+*Every commit builds another tower.*
 
+<img src="./profile-3d-contrib/profile-night-view.svg"
+alt="3D contribution city"
+width="100%"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TanishaRathore2026&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/><br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=TanishaRathore2026&icon=4&color=0)](https://visitcount.itsvg.in)
+<img src="./connect.svg?v=1"
+alt="Let's connect"
+width="100%"/>
 
-# 
- YOO!!
-<p align="center">
-  <img src="assets/space-shooter.gif" />
-</p>
+<br/>
 
-<h3 align="center">✨ Thanks for Visiting ✨</h3>
+<a href="https://github.com/TanishaRathore2026">
+<img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=white"
+alt="GitHub"/>
+</a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://www.linkedin.com/in/tanisha-rathore-cse/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+alt="LinkedIn"/>
+</a>
+
+<a href="https://portfolio-flax-beta-133bdvqpo3.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
+alt="Portfolio"/>
+</a>
+
+<a href="mailto:tanisharathore2024@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+alt="Email"/>
+</a>
+
+<br/><br/>
+
+**Always learning, always building.** 🚀
+
+</div>
