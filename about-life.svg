@@ -1,0 +1,51 @@
+<svg width="1200" height="270" viewBox="0 0 1200 270" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="1200" height="270" rx="25" fill="#0b0b12" stroke="#252538"/>
+
+<text x="55" y="55" fill="#a78bfa"
+font-family="monospace" font-size="16">01 / WHAT I BUILD</text>
+
+<text x="55" y="92" fill="white"
+font-family="Arial" font-size="29" font-weight="700">
+AI-powered web experiences
+</text>
+
+<text x="55" y="128" fill="#94a3b8"
+font-family="Arial" font-size="17">
+Full-stack applications • REST APIs • LLM integrations
+</text>
+
+<text x="55" y="158" fill="#94a3b8"
+font-family="Arial" font-size="17">
+Backend systems with Python &amp; Django
+</text>
+
+<line x1="600" y1="35" x2="600" y2="230"
+stroke="#252538"/>
+
+<text x="655" y="55" fill="#22d3ee"
+font-family="monospace" font-size="16">02 / CURRENTLY</text>
+
+<text x="655" y="92" fill="white"
+font-family="Arial" font-size="29" font-weight="700">
+Learning &amp; building
+</text>
+
+<text x="655" y="128" fill="#94a3b8"
+font-family="Arial" font-size="17">
+Python DSA • GenAI • Backend Development
+</text>
+
+<text x="655" y="158" fill="#94a3b8"
+font-family="Arial" font-size="17">
+Building projects and improving every day
+</text>
+
+<rect x="55" y="205" width="1090" height="1" fill="#252538"/>
+
+<text x="55" y="235" fill="#64748b"
+font-family="monospace" font-size="14">
+curiosity → code → projects → learning
+</text>
+
+</svg>
