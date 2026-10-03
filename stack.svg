@@ -1,0 +1,50 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="1200" height="250" rx="25" fill="#0b0b12" stroke="#252538"/>
+
+<text x="55" y="55"
+fill="#f472b6"
+font-family="monospace"
+font-size="16">03 / TECH STACK</text>
+
+<text x="55" y="95"
+fill="white"
+font-family="Arial"
+font-size="27"
+font-weight="700">
+Technologies I work with
+</text>
+
+<g font-family="monospace" font-size="15">
+
+<rect x="55" y="125" width="130" height="42" rx="10" fill="#17172a"/>
+<text x="82" y="151" fill="#facc15">Python</text>
+
+<rect x="200" y="125" width="130" height="42" rx="10" fill="#17172a"/>
+<text x="226" y="151" fill="#22d3ee">Django</text>
+
+<rect x="345" y="125" width="160" height="42" rx="10" fill="#17172a"/>
+<text x="370" y="151" fill="#a78bfa">Django REST</text>
+
+<rect x="520" y="125" width="130" height="42" rx="10" fill="#17172a"/>
+<text x="552" y="151" fill="#61dafb">React</text>
+
+<rect x="665" y="125" width="130" height="42" rx="10" fill="#17172a"/>
+<text x="695" y="151" fill="#60a5fa">PostgreSQL</text>
+
+<rect x="810" y="125" width="145" height="42" rx="10" fill="#17172a"/>
+<text x="835" y="151" fill="#f472b6">Gemini API</text>
+
+<rect x="970" y="125" width="165" height="42" rx="10" fill="#17172a"/>
+<text x="992" y="151" fill="#e2e8f0">Git / GitHub</text>
+
+</g>
+
+<text x="55" y="210"
+fill="#64748b"
+font-family="monospace"
+font-size="14">
+HTML • CSS • JavaScript • SQL • REST APIs • Prompt Engineering • Postman
+</text>
+
+</svg>
